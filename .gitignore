@@ -1,1 +1,8 @@
+# local config files
+config
+
+# cache
+__pycache__
+
+# virtual env 
 venv
