@@ -4,6 +4,7 @@ config
 # cache
 __pycache__
 *checkpoint*
+.DS_Store
 
 # virtual env 
 venv
