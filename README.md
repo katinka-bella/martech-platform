@@ -14,13 +14,13 @@ you need Python 3 or Docker to use Jupyter Notebook
 
 ```
 # create virtual environment
-python -m venv venv
+python -m venv .venv
 
 # activate venv (mac)
-source venv/bin/activate
+source .venv/bin/activate
 
 # activate venv (windows)
-source venv/Scripts/activate
+source .venv/Scripts/activate
 
 # install Python packages 
 pip install -r requirements.txt
