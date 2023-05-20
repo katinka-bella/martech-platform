@@ -6,6 +6,10 @@
 
 ## Quick Start
 
+### Requirements
+
+you need Python 3 or Docker to use Jupyter Notebook
+
 ### Using Virtual Environments for Jupyter Notebook
 
 ```
