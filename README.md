@@ -1,7 +1,7 @@
 # martech-platform
 
 ## Website
-[Home Page](https://xxxx)
+[Home Page](https://storage.cloud.google.com/martech-platform/index.html)
 
 ## Concept
 ![Alt text](/pix/project_structure_new.jpg)
