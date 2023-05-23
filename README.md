@@ -1,4 +1,4 @@
-# martech-notebook
+# martech-platform
 
 ## Concept
 ![Alt text](/pix/project_structure_new.jpg)
