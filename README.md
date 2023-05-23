@@ -32,6 +32,7 @@ pip install -r requirements.txt
 # run jupyterlab
 jupyter-lab
 
+
 # run jupyter-notebook
 jupyter notebook
 ```
