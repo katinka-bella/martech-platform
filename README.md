@@ -1,7 +1,7 @@
 # martech-platform
 
 ## Website
-[Home Page](https://storage.googleapis.com/martech-platform/index_martech.html)
+[Home Page](https://storage.googleapis.com/martech-platform/index.html)
 
 ## Concept
 ![Alt text](pix/martech.png)
