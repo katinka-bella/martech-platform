@@ -1,8 +1,0 @@
-# Business Requirements
-
-## Metadata
-client: katia-gmbh
-tool: ga4
-issue: create custom metrics
-property: 79897098-98
-
