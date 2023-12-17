@@ -4,7 +4,7 @@
 [Home Page](https://storage.googleapis.com/martech-platform/index.html)
 
 ## Concept
-![Alt text](pix/martech.png)
+![Alt text](pix/martech-2.png)
 
 
 ## Quick Start
