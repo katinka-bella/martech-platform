@@ -79,4 +79,43 @@ jupyter notebook
 (martech-config-bucket > gcp)
 2. Add config folder under your user in notebook sendbox
 
+## Notebook Structure
 
+The notebook structure is organized into two main folders: `develop` and `production`. Each folder serves a distinct purpose in the development lifecycle.
+
+### Develop Folder
+
+#### Sandbox
+
+The `sandbox` directory within the `develop` folder is dedicated to individual team members. Each team member has their own folder where they can develop and test their code. This isolated environment ensures that developers can experiment freely without affecting the main codebase.
+
+#### Marketing Platforms
+
+Within the `develop` folder, there are subdirectories named after marketing platforms such as `google`, `adobe`, etc. These directories house functions that have been developed by individual team members. Developers place their completed functions here for discussion and collaboration before moving finished products to the `production` folder and backend functions that these products using to [the backend api reposetory](https://github.com/katinka-bella/martech-backend-api).
+
+
+#### Production Folder
+
+The `production` folder is the staging area for finalized and approved products. It is organized by marketing platforms and serves as the central repository of functional notebooks that users can leverage for their martech operations.
+
+```
+martech-platform/
+├─ notebook/
+│  ├─ develop/
+│  |  ├─ sandbox/
+│  |  |  ├─ team-member-1/
+│  |  |  |  ├─ test.ipynb
+│  |  |  ├─ team-member-2/
+│  |  |  |  ├─ test.ipynb
+│  |  |  ├─ ...
+│  |  ├─ google/
+│  |  |  ├─ ...
+│  |  ├─ adobe/
+│  |  |  ├─ ...
+│  ├─ production/
+│  |  ├─ google/
+│  |  |  ├─ ...
+│  |  ├─ adobe/
+│  |  |  ├─ ...
+├─ README.md
+```
