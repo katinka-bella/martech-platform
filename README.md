@@ -31,7 +31,7 @@ git config --global user.email johndoe@example.com
 git config --global init.default branch main
 
 # clone repository
-git clone https://github.com/publicis-martech/martech-platform-v2.git
+git clone https://github.com/katinka-bella/martech-platform.git
 ```
 
 ### Using Virtual Environments for Jupyter Notebook
