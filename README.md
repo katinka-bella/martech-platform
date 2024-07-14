@@ -1,4 +1,5 @@
 # martech-platform
+This is the main section of the Martech Platform provides users with a Jupyter Notebook interface to interact with and utilize all the platform's functions.
 
 ## Website
 [Home Page](https://storage.googleapis.com/martech-platform/index.html)
